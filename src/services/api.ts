@@ -1,6 +1,6 @@
 import { ChatResponse } from '../types';
 
-const API_KEY = "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";
+const API_KEY = "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";
 
 export async function chatWithOpenRouter(userInput: string): Promise<ChatResponse> {
   try {
