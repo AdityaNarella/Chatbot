@@ -19,7 +19,7 @@ exports.handler = async function(event, context) {
     }
 
     // OpenRouter API Key
-    const API_KEY = "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";
+    const API_KEY = "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";
 
     // First, analyze sentiment
     const sentiment = analyzeSentiment(user_input);
